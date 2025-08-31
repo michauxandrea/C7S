@@ -41,3 +41,11 @@ footer {
 section {
   font-size: 20px;
 }
+header img {
+  width: 150px;
+  height: 150px;
+}
+.personales {
+  font-style: italic;
+  font-weight: bold;
+}
